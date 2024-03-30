@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-30T07:50:15.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="Oa5esLeTur0HAhaObX6B" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-30T07:52:49.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="X30BDXoHBfOt06DKmw7O" version="24.2.0" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="1627" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1898" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,7 +160,7 @@
         <mxCell id="HIM83jDWfp7aoqbR4-Ow-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="HIM83jDWfp7aoqbR4-Ow-95" target="HIM83jDWfp7aoqbR4-Ow-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HIM83jDWfp7aoqbR4-Ow-95" value="Office of Intelligence &#xa;Support" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="HIM83jDWfp7aoqbR4-Ow-95" value="饮食" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="764" y="1120" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HIM83jDWfp7aoqbR4-Ow-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;" edge="1" parent="1" source="HIM83jDWfp7aoqbR4-Ow-96">
@@ -174,10 +174,10 @@
         <mxCell id="HIM83jDWfp7aoqbR4-Ow-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="HIM83jDWfp7aoqbR4-Ow-96" target="HIM83jDWfp7aoqbR4-Ow-126">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HIM83jDWfp7aoqbR4-Ow-96" value="Office of Intelligence &#xa;Support" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="HIM83jDWfp7aoqbR4-Ow-96" value="更多" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1017" y="1120" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HIM83jDWfp7aoqbR4-Ow-97" value="Office of Intelligence &#xa;Support" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="HIM83jDWfp7aoqbR4-Ow-97" value="简餐" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1279" y="1120" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HIM83jDWfp7aoqbR4-Ow-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;" edge="1" parent="1" source="HIM83jDWfp7aoqbR4-Ow-98" target="HIM83jDWfp7aoqbR4-Ow-144">
@@ -207,28 +207,28 @@
         <mxCell id="HIM83jDWfp7aoqbR4-Ow-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="HIM83jDWfp7aoqbR4-Ow-112" target="HIM83jDWfp7aoqbR4-Ow-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HIM83jDWfp7aoqbR4-Ow-112" value="Office of Intelligence &#xa;Support" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="HIM83jDWfp7aoqbR4-Ow-112" value="拍照识别" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="697" y="1230" width="97" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="HIM83jDWfp7aoqbR4-Ow-116" value="Office of Intelligence &#xa;Support" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="HIM83jDWfp7aoqbR4-Ow-116" value="搜索" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="877" y="1230" width="97" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="HIM83jDWfp7aoqbR4-Ow-119" value="Office of Intelligence &#xa;Support" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="HIM83jDWfp7aoqbR4-Ow-119" value="本地图片" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="767" y="1340" width="97" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="HIM83jDWfp7aoqbR4-Ow-120" value="Office of Intelligence &#xa;Support" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="HIM83jDWfp7aoqbR4-Ow-120" value="摄像头封装" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="620" y="1340" width="97" height="59" as="geometry" />
         </mxCell>
         <mxCell id="HIM83jDWfp7aoqbR4-Ow-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="HIM83jDWfp7aoqbR4-Ow-124" target="HIM83jDWfp7aoqbR4-Ow-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HIM83jDWfp7aoqbR4-Ow-124" value="Office of Intelligence &#xa;Support" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="HIM83jDWfp7aoqbR4-Ow-124" value="日志发表" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1087" y="1321" width="97" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="HIM83jDWfp7aoqbR4-Ow-125" value="Office of Intelligence &#xa;Support" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="HIM83jDWfp7aoqbR4-Ow-125" value="AI助手" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1007" y="1230" width="97" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="HIM83jDWfp7aoqbR4-Ow-126" value="Office of Intelligence &#xa;Support" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="HIM83jDWfp7aoqbR4-Ow-126" value="组队监督" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1157" y="1230" width="97" height="59" as="geometry" />
         </mxCell>
         <mxCell id="HIM83jDWfp7aoqbR4-Ow-127" value="Office of Intelligence &#xa;Support" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
@@ -237,7 +237,7 @@
         <mxCell id="HIM83jDWfp7aoqbR4-Ow-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="HIM83jDWfp7aoqbR4-Ow-128" target="HIM83jDWfp7aoqbR4-Ow-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HIM83jDWfp7aoqbR4-Ow-128" value="Office of Intelligence &#xa;Support" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="HIM83jDWfp7aoqbR4-Ow-128" value="评论及邀请" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1087" y="1420" width="97" height="59" as="geometry" />
         </mxCell>
         <mxCell id="HIM83jDWfp7aoqbR4-Ow-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;" edge="1" parent="1" source="HIM83jDWfp7aoqbR4-Ow-135" target="HIM83jDWfp7aoqbR4-Ow-139">
