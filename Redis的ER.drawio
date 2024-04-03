@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T02:18:53.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="SLuSX0tVkNV89KHaPVbC" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T02:21:32.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="SO5775a4Vgag37V81iG7" version="24.2.1" type="github">
   <diagram name="第 1 页" id="8xAbPD0yXP_sl5N1FIUQ">
     <mxGraphModel dx="927" dy="525" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
         <mxCell id="fSqDmXQL-vzVasYW4XMQ-35" value="打卡信息" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="397.5" y="87" width="71" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="fSqDmXQL-vzVasYW4XMQ-23" value="信息" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="fSqDmXQL-vzVasYW4XMQ-23" value="用户信息" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="508" y="112" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fSqDmXQL-vzVasYW4XMQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;targetPerimeterSpacing=-10;" edge="1" parent="1" source="fSqDmXQL-vzVasYW4XMQ-39">
@@ -87,6 +87,29 @@
         </mxCell>
         <mxCell id="fSqDmXQL-vzVasYW4XMQ-20" value="用户" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="507" y="259" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fSqDmXQL-vzVasYW4XMQ-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;targetPerimeterSpacing=-11;sourcePerimeterSpacing=-4;" edge="1" parent="1" target="fSqDmXQL-vzVasYW4XMQ-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="778" y="269" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSqDmXQL-vzVasYW4XMQ-43" value="用户上线量" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="810" y="224" width="82" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="fSqDmXQL-vzVasYW4XMQ-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;targetPerimeterSpacing=-12;" edge="1" parent="1" source="fSqDmXQL-vzVasYW4XMQ-44" target="fSqDmXQL-vzVasYW4XMQ-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fSqDmXQL-vzVasYW4XMQ-44" value="api调用次数" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="712" y="175" width="71" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="fSqDmXQL-vzVasYW4XMQ-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;targetPerimeterSpacing=-10;" edge="1" parent="1" source="fSqDmXQL-vzVasYW4XMQ-41" target="fSqDmXQL-vzVasYW4XMQ-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fSqDmXQL-vzVasYW4XMQ-41" value="其他信息" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="716" y="261" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fSqDmXQL-vzVasYW4XMQ-46" value="注册用户数" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="815.5" y="308" width="71" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
