@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T01:35:18.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="gAByGqOgGa58Fw6_Pttf" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T01:36:19.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="bYehHWEnv5umgn-1-ef8" version="24.2.1" type="github">
   <diagram name="Page-1" id="k8IxIvTIii1jW4I5UCoE">
     <mxGraphModel dx="1324" dy="750" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -9,6 +9,15 @@
         </mxCell>
         <mxCell id="R4IAKUROjbEG2pzpquD4-1" value="根&#xa;root" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="411" y="32" width="110" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="R4IAKUROjbEG2pzpquD4-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="R4IAKUROjbEG2pzpquD4-2" target="R4IAKUROjbEG2pzpquD4-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R4IAKUROjbEG2pzpquD4-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;" edge="1" parent="1" source="R4IAKUROjbEG2pzpquD4-2" target="R4IAKUROjbEG2pzpquD4-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R4IAKUROjbEG2pzpquD4-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="R4IAKUROjbEG2pzpquD4-2" target="R4IAKUROjbEG2pzpquD4-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R4IAKUROjbEG2pzpquD4-2" value="主页面&#xa;mainbox" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="416" y="182" width="100" height="51" as="geometry" />
@@ -212,7 +221,7 @@
           <mxGeometry x="331" y="271.5" width="92" height="61.5" as="geometry" />
         </mxCell>
         <mxCell id="R4IAKUROjbEG2pzpquD4-54" value="食品种类&#xa;category" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="455" y="274" width="102" height="59" as="geometry" />
+          <mxGeometry x="459" y="277" width="102" height="59" as="geometry" />
         </mxCell>
         <mxCell id="R4IAKUROjbEG2pzpquD4-55" value="组队信息&#xa;group" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="597" y="277" width="102" height="59" as="geometry" />
