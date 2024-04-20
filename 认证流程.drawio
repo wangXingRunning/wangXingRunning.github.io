@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-20T14:09:14.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="m0fOGPz5I7gFlIrFZF4q" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-20T14:11:45.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="NCjQG1BTaY08cp8L9CL8" version="24.2.5" type="github">
   <diagram name="第 1 页" id="nSO1w7hgdYzm0M3njHVF">
     <mxGraphModel dx="927" dy="925" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,7 +8,13 @@
           <mxGeometry x="58" y="-400" width="146" height="92" as="geometry" />
         </mxCell>
         <mxCell id="fM1xi27GiWtBx4axmUrS-2" value="用户信息的载体是：authentication ,常用的实现类：&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.4pt; background-color: initial;&quot;&gt;UsernamePasswordAuthenticationToken 和&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.4pt; background-color: initial;&quot;&gt;RememberMeAuthenticationToken&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="58" y="-294" width="311" height="31" as="geometry" />
+          <mxGeometry x="1" y="-334" width="773" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="fM1xi27GiWtBx4axmUrS-3" value="AuthenticationFilter" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="96" y="-188" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fM1xi27GiWtBx4axmUrS-4" value="UsernamePasswordAuthenticationToken" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="96" y="-282" width="131" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
